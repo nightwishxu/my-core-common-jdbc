@@ -34,6 +34,7 @@ public class ClassMappings {
 	                double.class, Double.class,
 	                String.class,
 	                Date.class,
+					java.util.Date.class,
 	                Timestamp.class,
 	                BigDecimal.class
 	        };
