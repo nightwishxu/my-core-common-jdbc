@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * 查询规则构造器，实现多条件复杂查询的条件拼接
  *  Role 角色，Rule 尺子，规则
- * Created by Tom on 2018/5/12.
+ * Created by xww on 2018/5/12.
  */
 public final class QueryRule implements Serializable {
     private static final long serialVersionUID = 1L;

@@ -8,7 +8,7 @@ import org.apache.commons.logging.LogFactory;
 
 /**
  * 泛型操作类.
- * @author Tom
+ * @author xww
  */
 @SuppressWarnings("unchecked")
 public class GenericsUtils {

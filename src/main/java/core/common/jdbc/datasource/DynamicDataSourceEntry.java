@@ -5,7 +5,7 @@ import org.aspectj.lang.JoinPoint;
 
 /**
  * 动态切换数据源
- * @author Tom
+ * @author xww
  *
  */
 public class DynamicDataSourceEntry {

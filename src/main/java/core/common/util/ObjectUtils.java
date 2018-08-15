@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
 /**
  * 对象工具类
  * 
- * @author Tom
+ * @author xww
  */
 public class ObjectUtils {
 	

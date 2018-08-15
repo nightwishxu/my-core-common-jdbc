@@ -3,7 +3,7 @@ package core.common.jdbc;
 
 /**
  * sql排序组件
- * @author Tom
+ * @author xww
  */
 public class Order {
 	private boolean ascending; //升序还是降序

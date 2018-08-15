@@ -18,7 +18,7 @@ import sun.misc.BASE64Encoder;
 /**
  * String工具类
  * 
- * @author Tom
+ * @author xww
  */
 public class StringUtils {
 	

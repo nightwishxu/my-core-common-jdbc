@@ -15,7 +15,7 @@ import core.common.jdbc.QueryRule.Rule;
 
 /**
  * 根据QueryRule自动构建sql语句
- * @author Tom
+ * @author xww
  *
  */
 public class QueryRuleSqlBuilder {
